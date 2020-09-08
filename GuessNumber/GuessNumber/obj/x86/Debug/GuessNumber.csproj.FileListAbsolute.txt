@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\C#\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\admin\Desktop\C#\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\admin\Desktop\C#\GuessNumber\GuessNumber\obj\x86\Debug\GuessNumber.exe
+C:\Users\admin\Desktop\C#\GuessNumber\GuessNumber\obj\x86\Debug\GuessNumber.pdb
