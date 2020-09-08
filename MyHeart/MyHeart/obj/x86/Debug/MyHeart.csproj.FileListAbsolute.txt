@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\C#\MyHeart\MyHeart\bin\Debug\MyHeart.exe
+C:\Users\admin\Desktop\C#\MyHeart\MyHeart\bin\Debug\MyHeart.pdb
+C:\Users\admin\Desktop\C#\MyHeart\MyHeart\obj\x86\Debug\MyHeart.exe
+C:\Users\admin\Desktop\C#\MyHeart\MyHeart\obj\x86\Debug\MyHeart.pdb
